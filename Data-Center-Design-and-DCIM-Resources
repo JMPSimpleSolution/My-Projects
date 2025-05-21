@@ -1,0 +1,56 @@
+Data-Center-Design-and-DCIM-Resources/
+│
+├── README.md
+│
+├── Standards_and_Best_Practices/
+│   ├── TIA-942_Standards_Summary.md
+│   ├── Labeling_Standards.md
+│   ├── Cabinet_and_Rack_Management.md
+│   └── Structured_Cabling_Guidelines.md
+│
+├── DCIM_Tools/
+│   ├── Nlyte/
+│   │   ├── Installation_and_Setup_Guide.md
+│   │   ├── Upgrade_Checklists.md
+│   │   ├── Licensing_and_Cost_Management.xlsx
+│   │   └── NAO_NEO_Points_Calculator.py
+│   │
+│   ├── Sunbird/
+│   │   ├── Sunbird_Implementation_Plan.md
+│   │   └── Migration_Strategy_Template.docx
+│   │
+│   └── Schneider_Electric_Ecostruxure/
+│       ├── EcoStruxure_DCIM_Overview.md
+│       └── Configuration_Examples.md
+│
+├── Automation_Scripts/
+│   ├── Rack_Capacity_Reporting/
+│   │   ├── capacity_report.py
+│   │   ├── generate_capacity_graphs.ipynb
+│   │   └── Example_Output_Reports/
+│   │
+│   └── Asset_Management/
+│       ├── asset_tracking.py
+│       └── inventory_update_script.ps1
+│
+├── Templates_and_Checklists/
+│   ├── BOM_Templates.xlsx
+│   ├── Patch_Panel_Setup_Template.xlsx
+│   ├── Label_Formatting_Guide.md
+│   ├── Rack_and_Cabinet_Checklist.xlsx
+│   └── SOP_Documentation_Template.docx
+│
+├── Projects/
+│   ├── Site_A_Nlyte_Upgrade_Plan.md
+│   ├── CommScope_MPO_Project/
+│   │   ├── Project_Plan.md
+│   │   ├── Bill_of_Materials.xlsx
+│   │   └── Project_Timeline.xlsx
+│   │
+│   └── Future_Sites_Evaluation/
+│       ├── Site_Assessment_Template.md
+│       └── DCIM_Comparison_Matrix.xlsx
+│
+└── Certifications_and_Training/
+    ├── Data_Center_Certification_Checklist.md
+    └── DCIM_Training_Resources.md
